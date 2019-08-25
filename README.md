@@ -24,6 +24,8 @@ More Paper for Android Malware detection: https://github.com/maoqyhz/DroidCC/blo
 
 #### Usable Security
 - 2019, IEEE S&P, [How Well Do My Results Generalize? Comparing Security and Privacy Survey Results from MTurk, Web, and Telephone Samples](https://seankross.com/ssp-2019/redmiles-kross-mazurek-ssp-2019.pdf)
+- 2016, SOUPS, [Follow My Recommendations: A Personalized Privacy Assistant for Mobile App Permissions](https://www.cs.cmu.edu/~bliu1/Bin_Liu_SOUPS2016_Follow.pdf)
+- 2014, WWW, [Reconciling Mobile App Privacy and Usability on Smartphones: Could User Privacy Profiles Help?](https://www.cs.cmu.edu/~bliu1/Bin_Liu_WWW2014_Reconciling.pdf)
 
 
 #### Access Control 
@@ -39,7 +41,15 @@ More Paper for Android Malware detection: https://github.com/maoqyhz/DroidCC/blo
 #### Voice Platform
 - 2019, IEEE S&P, [Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems](https://pdfs.semanticscholar.org/9785/5989936ed45485f15e470f8c70a8a3a1e93c.pdf)
 - 2018, USENIX, [Skill Squatting Attacks on Amazon Alexa](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kumar.pdf)
+- 2017, SAFETHINGS, [EchoSafe: Sonar-based Verifiable Interaction with Intelligent Digital Agents](https://dl.acm.org/citation.cfm?id=3137014)
 
+
+#### Attacks & Defenses in IoT 
+- 2018, NDSS, [Fear and Logging in the Internet of Things](http://seclab.illinois.edu/wp-content/uploads/2017/12/wang2018fear.pdf)
+- 2018, USENIX, [CommanderSong: A Systematic Approach for Practical Adversarial Voice Recognition](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yuan.pdf)
+- 2018, NSDI, [Inaudible Voice Commands: The Long-Range Attack and Defense](https://synrg.csl.illinois.edu/papers/lipread_nsdi18.pdf)
+- 2017, CCS, [DolphinAttack: Inaudible Voice Commands](https://acmccs.github.io/papers/p103-zhangAemb.pdf) 
+- 2017, CCS, [Hearing Your Voice is Not Enough: An Articulatory Gesture Based Liveness Detection for Voice Authentication](https://acmccs.github.io/papers/p57-zhangA.pdf)
 
 #### Sensitive Information Flow Tracking
 - 2016, USENIX Security, [FlowFence: Practical Data Protection for Emerging IoT Application Frameworks](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_fernandes.pdf)
@@ -53,11 +63,6 @@ More Paper for Android Malware detection: https://github.com/maoqyhz/DroidCC/blo
 
 #### Fuzzing
 - 2018, NDSS, [IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing](http://web.cse.ohio-state.edu/~lin.3021/file/NDSS18b.pdf)
-
-
-#### Attacks & Defenses in IoT 
-- 2018, NDSS, [Fear and Logging in the Internet of Things](http://seclab.illinois.edu/wp-content/uploads/2017/12/wang2018fear.pdf)
-- 2018, USENIX, [CommanderSong: A Systematic Approach for Practical Adversarial Voice Recognition](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yuan.pdf)
 
 
 #### Trigger-action Platform Measurement, and Security Analysis

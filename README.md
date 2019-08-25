@@ -1,5 +1,5 @@
 # Mobile and IoT Security Research Paper List (2012 to 2019):
-Repository contains papers from top tier conferences on Mobile and IoT security & privacy domain.
+Repository contains papers from top tier conferences (most of them) on Mobile and IoT security & privacy domain.
 If you have any suggestions, please contact with us.
 
 

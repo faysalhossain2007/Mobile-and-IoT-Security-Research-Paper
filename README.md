@@ -71,6 +71,11 @@ More Paper for Android Malware detection: https://github.com/maoqyhz/DroidCC/blo
 - 2017, WWW, [Some Recipes Can Do More Than Spoil Your Appetite Analyzing the Security and Privacy Risks of IFTTT Recipes](http://www.andrew.cmu.edu/user/liminjia/research/papers/ifttt-info-flows-www2017.pdf)
 
 
+#### Privacy Policy Analysis
+- 2019, USENIX, [PolicyLint: Investigating Internal Privacy Policy Contradictions on Google Play](https://www.usenix.org/system/files/sec19-andow.pdf)
+- 2017, NDSS, [Automated Analysis of Privacy Requirements for Mobile Apps](https://www.privacyassistant.org/media/publications/NDSS17.pdf)
+- 2015, CCS workshop, [Autoppg: Towards automatic generation of privacy policy for android applications](https://dl.acm.org/citation.cfm?id=2808125)
+
 
 
 
